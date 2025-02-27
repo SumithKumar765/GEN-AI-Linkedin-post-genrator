@@ -1,2 +1,3 @@
 # GEN-AI-Linkedin-post-genrator
-In This project Iam suing the llama 3.12 , lanchain and grooq cloud service api and many more and giving idea from famous infulancer styles like mushkan handa and few more infulancer from linkdin suports multiple Lnaguages like english and hinglish combinaion of hindi + english and Iam using streamlit to give eyecatching user interface 
+This tool will analyze posts of a LinkedIn influencer and help them create the new posts based on the writing style in their old posts
+
